@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-## Introduction
+## Introduction 
 In this assignment we have to answer 3 questions:
 
 1. What is the mean total numbers of steps per day
